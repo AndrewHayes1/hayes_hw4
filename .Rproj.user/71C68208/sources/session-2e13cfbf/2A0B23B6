@@ -1,12 +1,12 @@
 {
-    "id": "9B4FC359",
+    "id": "2A0B23B6",
     "path": "C:/RLING343/hayes_hw4/hayes_hw4.qmd",
     "project_path": "hayes_hw4.qmd",
     "type": "quarto_markdown",
-    "hash": "768461153",
+    "hash": "4250345495",
     "contents": "",
     "dirty": false,
-    "created": 1679594808768.0,
+    "created": 1680135386240.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
@@ -15,18 +15,18 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,0",
-        "scrollLine": "0",
+        "cursorPosition": "30,0",
+        "scrollLine": "2",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "129:0"
+        "rmdVisualModeLocation": "584:268"
     },
     "folds": "",
-    "lastKnownWriteTime": 1679594866,
+    "lastKnownWriteTime": 1680146004,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1679594866751,
+    "last_content_update": 1680146004009,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,0 +1,8 @@
+"0","#| message: FALSE"
+"0","wordsNBA <- topNBA |> "
+"0","  unnest_tokens(word, title) |> "
+"0","  anti_join(stop_words) |> "
+"0","  select(word) |> "
+"0","  count(word, sort = TRUE)"
+"0",""
+"0","wordsNBA"

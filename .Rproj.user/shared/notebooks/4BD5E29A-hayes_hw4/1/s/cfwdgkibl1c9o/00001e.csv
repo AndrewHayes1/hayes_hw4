@@ -1,0 +1,8 @@
+"0","#| message: FALSE"
+"0","userWords <- userInfo |> "
+"0","  unnest_wider(json) |> "
+"0","  unnest_longer(comments) |> "
+"0","  select(comments_id) |> "
+"0","  unnest_tokens(word, comments_id) |> "
+"0","  count(word, sort = TRUE) |> "
+"0","  anti_join(stop_words)"
